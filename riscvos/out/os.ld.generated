@@ -1,0 +1,11 @@
+
+-P
+-x
+c
+-nostdlib
+-fno-builtin
+-g
+-Wall
+-march=rv32g
+-mabi=ilp32
+os.ld
