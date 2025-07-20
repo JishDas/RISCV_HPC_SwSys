@@ -4,7 +4,13 @@ Hello, this is the start of the HPC Software Project using RISC-V
 
 Ubuntu 20.04 is recommended. Ubuntu 20.04 is currently the latest recommended long-term stable release of Ubuntu. It is also the easiest to install and run the environment in this environment.
 
- <<< Add the setup instructions here >>>
+Go over to https://github.com/johnwinans/riscv-toolchain-install-guide and follow the given instructions (even better, refer to the attached YouTube video) -
+
+Broadly the required software to be downloaded -
+
+1. GNU RISCV toolchain
+2. QEMU for virtualization
+3. GDB dashboard
 
 # 2. Running the repo
 
