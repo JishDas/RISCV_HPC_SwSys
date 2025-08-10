@@ -3,7 +3,7 @@
 
 # Custom Macro Definition (Common part)
 
-include ../defines.mk
+include defines.mk
 DEFS +=
 
 CROSS_COMPILE = riscv64-unknown-elf-
